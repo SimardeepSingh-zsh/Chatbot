@@ -1,0 +1,4 @@
+chatterbot==1.0.8
+chatterbot-corpus==1.2.0
+textblob==0.15.3
+requests==2.26.0
